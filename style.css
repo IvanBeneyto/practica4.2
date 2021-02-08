@@ -1,0 +1,23 @@
+h1.title{
+    text-align: center;
+    color: rgb(136, 33, 33);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p.centrado{
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+p.centrado2{
+    text-align: center;
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+p.desplazado{
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    left: 88%;
+  }
